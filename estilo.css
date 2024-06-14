@@ -1,0 +1,159 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    background-color:gainsboro;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav a{
+    font-weight: 600;
+    padding: 10px;
+    width: 150px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(227, 252, 227);
+    align-items: center;
+}
+ul{
+    background-color:gray;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    display: inline-flex;
+}
+li :hover{
+    background-color:lightcyan;
+}
+.logo img{
+    height: 50px;
+}
+div img{
+height: 120px;
+}
+.caja1{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    display: inline;
+    border-right: 3px solid black;
+}
+.caja2{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    border-right: 3px solid black;
+}
+.caja3{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    border-right: 3px solid black;
+}
+.caja4{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    border-right: 3px solid black;
+}
+.caja5{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    border-right: 3px solid black;
+}
+.caja6{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    border-right: 3px solid black;
+}
+.caja7{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    border-right: 3px solid black;
+}
+.caja8{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    border-right: 3px solid black;
+}
+.caja9{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    border-right: 3px solid black;
+}
+.caja10{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    border-right: 3px solid black;
+}
+.caja11{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    border-right: 3px solid black;
+}
+.caja12{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.7);
+    background-color: white;
+    float: left;
+    font-weight: 600;
+    padding:23px;
+    border-right: 3px solid black;
+}
